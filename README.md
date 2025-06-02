@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kolamak.
 - 👀 I’m interested in growth.
 - 🌱 I’m currently learning frontend development.
-- 💞️ I’m looking to collaborate on projects as i'm proficient in writting HTML, CSS, Tailwind CSS and Javascript
+- 💞️ I’m looking to collaborate on projects that will add to my knowledge in writting HTML, CSS, Tailwind CSS and Javascript.
 - 📫 How to reach me "reach out on my mail" 'kolamakanjuola@gmail.com'
 - ⚡ Fun fact: I want the money i worked for.
 
